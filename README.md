@@ -9,7 +9,7 @@
 --->
 
 <h1>Hi, there  👋</h1> 
-<h2>I'm Typescript, Asp.Net, Web3 Expert  💫🧙💫 </h2>
+<h2>Web3, Asp.Net, Next.js/Typescript, Data Engineer Here!  💫🧙💫 </h2>
 
 As a web3/full stack engineer. Super fast shipping with high-quality works is my tech strength. ⚡️🛳️⚡️ <br/>
 

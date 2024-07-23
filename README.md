@@ -10,8 +10,8 @@
 
 <h1>Hi, there  👋</h1> 
 <h2>I'm a web3, full-stack engineer 💫🧙💫 </h2>
-<h3>Major: Blockchain, React/Next.js, Asp.net</h3>
-
+<h3>Major: Web3, React/Next.js, Asp.net</h3>
+<h3>Language: Solidity, Typescript, C#, Python</h3>
 As a web3/full stack engineer. Super fast shipping with high-quality works is my tech strength. ⚡️🛳️⚡️ <br/>
 
 

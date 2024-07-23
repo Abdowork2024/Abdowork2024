@@ -10,7 +10,7 @@
 
 <h1>Hi, there  👋</h1> 
 <h2>I'm a web3, full-stack engineer 💫🧙💫 </h2>
-<h3>Blockchain tech, Next/React.js, Asp.net/C#, Tailwind Css, Mui-material, typescript</h3>
+<h3>Major stack: Blockchain tech, Next/React.js, Asp.net/C#, Tailwind Css, Mui-material, typescript</h3>
 
 As a web3/full stack engineer. Super fast shipping with high-quality works is my tech strength. ⚡️🛳️⚡️ <br/>
 

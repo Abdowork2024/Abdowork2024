@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! 🚀
 
-As a **Data Scientist Developer** 📊, I'm passionate about harnessing the power of **Data** and **Machine Learning** to solve complex problems and create impactful solutions. From predictive modeling 📈 to building AI-driven applications 🤖, I thrive on extracting meaningful insights from raw data and turning them into actionable intelligence. 
+As a **Data Scientist** 📊, I'm passionate about harnessing the power of **Data** and **Machine Learning** to solve complex problems and create impactful solutions. From predictive modeling 📈 to building AI-driven applications 🤖, I thrive on extracting meaningful insights from raw data and turning them into actionable intelligence. 
 
 ---
 

@@ -1,4 +1,4 @@
-# 👨‍💻 Data Scientist | Machine Learning Enthusiast 🤖 | AI Innovator 💡
+# 👨‍💻 Data Scientist | Machine Learning Enthusiast 🤖 | AI Innovator
 
 Welcome to my GitHub! 🚀
 

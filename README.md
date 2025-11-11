@@ -1,26 +1,32 @@
-👨‍💻 Solana Developer | Rust Engineer 🦀 | Trading Bot Specialist 🤖 | DeFi Builder
+👨‍💻 Solana Developer | Rust Engineer 🦀 | Trading Bot Specialist 🤖 | DeFi Builder | Full-Stack Web3 Developer
 
 Welcome to my GitHub! 🚀
 
-As a Solana Blockchain Developer and Trading Bot Engineer, I'm passionate about building high-performance decentralized applications and automated trading systems. From DeFi protocols 💎 to algorithmic trading bots 📈, I thrive on creating robust, efficient solutions that leverage blockchain technology and quantitative strategies.
+Enthusiastic fan of Data Science 📊, Machine Learning 🤖 & AI 💡. Exploring the magic of data-driven insights and predictive models makes me happy! 💫
+
+Building Solana programs, AI-powered crypto trading bots, DeFi applications, DApps, and NFT platforms. Passionate about combining blockchain technology with full-stack development and ML-driven trading strategies.
 
 🔧 Tech Stack
 
 Programming Languages:
 
-Rust 🦀, Python 🐍, TypeScript 📘, Solidity ⚡
+Rust 🦀, Python 🐍, TypeScript 📘, JavaScript 📜, Solidity ⚡
 
-Blockchain & Solana:
+Full-Stack Development (MERN):
 
-Solana Web3.js 🔗, Anchor Framework ⚓, SPL Tokens 💰, Program Development 🏗️
+MongoDB 🍃, Express.js 🚀, React ⚛️, Node.js 🟢
+
+Blockchain & Web3:
+
+Solana Web3.js 🔗, Anchor Framework ⚓, SPL Tokens 💰, Program Development 🏗️, Web3.js 🌐, Ethers.js ⚡, DApps 🏗️, NFT Development 🖼️, Smart Contracts 📜
 
 Trading & DeFi:
 
 Trading Bots 🤖, DEX Integration 💱, Liquidity Pools 🌊, AMM Protocols 📊
 
-Data & Analysis:
+Data Science & ML:
 
-Pandas 🐼, NumPy 🔢, Real-time Data Processing ⚡, Market Analysis 📈
+Pandas 🐼, NumPy 🔢, Scikit-learn 🤖, TensorFlow 🧠, PyTorch 🔥, Real-time Data Processing ⚡, Market Analysis 📈
 
 Infrastructure & Tools:
 
@@ -32,11 +38,5 @@ AWS ☁️, Google Cloud 🏞️, VPS Deployment 🖥️
 
 💡 About Me
 
-I specialize in developing Solana programs (smart contracts) using Rust and Anchor ⚓, building high-frequency trading bots 🤖, and creating DeFi applications 💎.
-
-Passionate about building efficient, gas-optimized on-chain programs 🔧 and designing robust trading strategies 📊.
-
-I love creating automated trading systems 🔮 that execute strategies with precision and help traders optimize their performance 📈.
-
-Always exploring the latest trends in Solana ecosystem, DeFi protocols, quantitative trading, and blockchain technology to stay ahead of the curve 🏁.
+Full-stack Web3 developer specializing in Solana programs (Rust/Anchor) ⚓, AI-powered crypto trading bots 🤖, DApps, and NFT platforms 🖼️. Building end-to-end blockchain applications with MERN stack, integrating Web3 functionality, and creating seamless user experiences. Passionate about data-driven trading strategies 📊, ML models for market analysis, and DeFi applications 💎.
 

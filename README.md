@@ -1,29 +1,42 @@
-# 👨‍💻 Data Scientist | Machine Learning Enthusiast 🤖 | AI Innovator
+👨‍💻 Solana Developer | Rust Engineer 🦀 | Trading Bot Specialist 🤖 | DeFi Builder
 
 Welcome to my GitHub! 🚀
 
-As a **Data Scientist** 📊, I'm passionate about harnessing the power of **Data** and **Machine Learning** to solve complex problems and create impactful solutions. From predictive modeling 📈 to building AI-driven applications 🤖, I thrive on extracting meaningful insights from raw data and turning them into actionable intelligence. 
+As a Solana Blockchain Developer and Trading Bot Engineer, I'm passionate about building high-performance decentralized applications and automated trading systems. From DeFi protocols 💎 to algorithmic trading bots 📈, I thrive on creating robust, efficient solutions that leverage blockchain technology and quantitative strategies.
 
----
+🔧 Tech Stack
 
-## 🔧 Tech Stack
+Programming Languages:
 
-- **Programming Languages**:  
-  - Python 🐍, R 📊, SQL 🖥️
-- **Machine Learning & AI**:  
-  - Scikit-learn 🤖, TensorFlow 🧠, Keras 🔬, PyTorch 🔥
-- **Data Manipulation & Analysis**:  
-  - Pandas 🐼, NumPy 🔢, Matplotlib 📈, Seaborn 🎨
-- **Data Engineering**:  
-  - Hadoop 🍃, Spark 🔥, SQL Databases 🗄️
-- **Cloud & Tools**:  
-  - AWS ☁️, Google Cloud 🏞️, Docker 🐋, GitHub 🧑‍💻
+Rust 🦀, Python 🐍, TypeScript 📘, Solidity ⚡
 
----
+Blockchain & Solana:
 
-## 💡 About Me
+Solana Web3.js 🔗, Anchor Framework ⚓, SPL Tokens 💰, Program Development 🏗️
 
-- I specialize in developing **Machine Learning models** 🤖, performing **Data Analysis** 📊, and integrating **AI solutions** 🌟.
-- Passionate about discovering insights through **exploratory data analysis (EDA)** 🔍 and **feature engineering** 🔧.
-- I love building **predictive models** 🔮 that help organizations optimize their strategies and make data-driven decisions 📈.
-- Always exploring the latest trends in **Artificial Intelligence**, **Deep Learning**, and **Big Data** to stay ahead of the curve 🏁.
+Trading & DeFi:
+
+Trading Bots 🤖, DEX Integration 💱, Liquidity Pools 🌊, AMM Protocols 📊
+
+Data & Analysis:
+
+Pandas 🐼, NumPy 🔢, Real-time Data Processing ⚡, Market Analysis 📈
+
+Infrastructure & Tools:
+
+Docker 🐋, GitHub 🧑‍💻, CI/CD 🔄, Monitoring & Logging 📊
+
+Cloud & Infrastructure:
+
+AWS ☁️, Google Cloud 🏞️, VPS Deployment 🖥️
+
+💡 About Me
+
+I specialize in developing Solana programs (smart contracts) using Rust and Anchor ⚓, building high-frequency trading bots 🤖, and creating DeFi applications 💎.
+
+Passionate about building efficient, gas-optimized on-chain programs 🔧 and designing robust trading strategies 📊.
+
+I love creating automated trading systems 🔮 that execute strategies with precision and help traders optimize their performance 📈.
+
+Always exploring the latest trends in Solana ecosystem, DeFi protocols, quantitative trading, and blockchain technology to stay ahead of the curve 🏁.
+

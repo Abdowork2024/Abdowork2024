@@ -2,8 +2,6 @@
 
 Welcome to my GitHub! 🚀
 
-Enthusiastic fan of Data Science 📊, Machine Learning 🤖 & AI 💡. Exploring the magic of data-driven insights and predictive models makes me happy! 💫
-
 Building Solana programs, AI-powered crypto trading bots, DeFi applications, DApps, and NFT platforms. Passionate about combining blockchain technology with full-stack development and ML-driven trading strategies.
 
 🔧 Tech Stack

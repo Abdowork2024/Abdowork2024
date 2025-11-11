@@ -1,40 +1,40 @@
-👨‍💻 Solana Developer | Rust Engineer 🦀 | Trading Bot Specialist 🤖 | DeFi Builder | Full-Stack Web3 Developer
+👨‍💻 Solana Developer | Rust Engineer 🦀 | Trading Bot Specialist 🤖 | DeFi Builder 💎 | Full-Stack Web3 Developer ⚡
 
-Welcome to my GitHub! 🚀
+Welcome to my GitHub! 🚀✨
 
-Building Solana programs, AI-powered crypto trading bots, DeFi applications, DApps, and NFT platforms. Passionate about combining blockchain technology with full-stack development and ML-driven trading strategies.
+⚡ Building Solana programs, AI-powered crypto trading bots 🤖, DeFi applications 💎, DApps 🏗️, and NFT platforms 🖼️. Passionate about combining blockchain technology ⛓️ with full-stack development 🚀 and trading strategies 📈.
 
-🔧 Tech Stack
+🔧⚡ Tech Stack 💻
 
-Programming Languages:
+💻 Programming Languages:
 
 Rust 🦀, Python 🐍, TypeScript 📘, JavaScript 📜, Solidity ⚡
 
-Full-Stack Development (MERN):
+🚀 Full-Stack Development (MERN):
 
 MongoDB 🍃, Express.js 🚀, React ⚛️, Node.js 🟢
 
-Blockchain & Web3:
+⛓️ Blockchain & Web3:
 
 Solana Web3.js 🔗, Anchor Framework ⚓, SPL Tokens 💰, Program Development 🏗️, Web3.js 🌐, Ethers.js ⚡, DApps 🏗️, NFT Development 🖼️, Smart Contracts 📜
 
-Trading & DeFi:
+💱 Trading & DeFi:
 
 Trading Bots 🤖, DEX Integration 💱, Liquidity Pools 🌊, AMM Protocols 📊
 
-Data Science & ML:
-
-Pandas 🐼, NumPy 🔢, Scikit-learn 🤖, TensorFlow 🧠, PyTorch 🔥, Real-time Data Processing ⚡, Market Analysis 📈
-
-Infrastructure & Tools:
+🛠️ Infrastructure & Tools:
 
 Docker 🐋, GitHub 🧑‍💻, CI/CD 🔄, Monitoring & Logging 📊
 
-Cloud & Infrastructure:
+☁️ Cloud & Infrastructure:
 
 AWS ☁️, Google Cloud 🏞️, VPS Deployment 🖥️
 
-💡 About Me
+💡✨ About Me 🚀
 
-Full-stack Web3 developer specializing in Solana programs (Rust/Anchor) ⚓, AI-powered crypto trading bots 🤖, DApps, and NFT platforms 🖼️. Building end-to-end blockchain applications with MERN stack, integrating Web3 functionality, and creating seamless user experiences. Passionate about data-driven trading strategies 📊, ML models for market analysis, and DeFi applications 💎.
+⚡ Full-stack Web3 developer specializing in Solana programs (Rust/Anchor) ⚓, AI-powered crypto trading bots 🤖, DApps 🏗️, and NFT platforms 🖼️. 
+
+🔥 Building end-to-end blockchain applications ⛓️ with MERN stack 🚀, integrating Web3 functionality 🌐, and creating seamless user experiences ✨. 
+
+💎 Passionate about trading strategies 📊, market analysis 📈, and DeFi applications 💎.
 

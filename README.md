@@ -1,4 +1,4 @@
-👨‍💻 Solana Developer | Rust Engineer 🦀 | Trading Bot Specialist 🤖 | DeFi Builder 💎 | Full-Stack Web3 Developer ⚡
+Rust Engineer 🦀 | Trading Bot Specialist 🤖 | 👨‍💻 Solana Developer | DeFi Builder 💎 | Full-Stack Web3 Developer ⚡
 
 Welcome to my GitHub! 🚀✨
 
